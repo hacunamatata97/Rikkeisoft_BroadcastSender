@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rikkeisoft_BroadcastSender</string>
+    <string name="btn_open_A">Open application A</string>
+    <string name="btn_open_B">Open Application B</string>
+</resources>
